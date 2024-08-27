@@ -85,7 +85,7 @@ class Details extends StatelessWidget {
                         ),
                         // subtitle: Text('\$${option.price}'),
                         trailing: Checkbox(
-                          value: true,
+                          value: false,
                           onChanged: (value) {
                           },
                         ),
